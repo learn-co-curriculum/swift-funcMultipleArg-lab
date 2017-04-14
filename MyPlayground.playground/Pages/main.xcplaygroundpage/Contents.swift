@@ -43,7 +43,7 @@ daysInMonth(month: "November", days: 30)
 
 
 /*: question4
- ### 4. So far, you have created functions that take two arguments. Can you create (and call) one that takes three? Try to create a function that three parameters: a beverage, the number of bottles of that beverage, and a place you can keep those bottles. Print the sentence "____ bottles of ____ on the ____ wall."
+ ### 4. So far, you have created functions that take two arguments. Can you create (and call) one that takes three? Try to create a function that takes three parameters: a beverage, the number of bottles of that beverage, and a place you can keep those bottles. Print the sentence "____ bottles of ____ on the ____."
  */
 // write your code here
 
