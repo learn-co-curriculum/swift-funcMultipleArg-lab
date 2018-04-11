@@ -40,7 +40,7 @@ greeting(name: "Danny", greeting: "Hello")
  ### 3. This function doesn't work, either. Can you fix the function (_not_ the call) so that it works?
  */
 func daysInMonth(month: String, days: Int) {
-    print("There are \(days) in \(month)")
+    print("There are \(days) days in \(month)")
 }
 
 daysInMonth(month: "November", days: 30)
